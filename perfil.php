@@ -93,7 +93,7 @@ $tarjetas = $stmt4->get_result();
         <a style="padding-top: 10px" href="index.php">Inicio</a>
         <a style="padding-top: 10px" href="catalogo.php">Catálogo</a>
         <a style="padding-top: 10px" href="carrito/carrito.php">Mi Carrito</a>
-        <a style="padding-top: 10px" href="contacto.html">Contacto</a>
+        <a style="padding-top: 10px" href="contacto.php">Contacto</a>
         <a href="php/logout.php" class="cerrar-sesion">Cerrar Sesión</a>
     </nav>
 </header>

@@ -57,7 +57,7 @@ $conn->close();
     <nav class="menu">
         <a href="../index.php">Inicio</a>
         <a href="../catalogo.php">Catálogo</a>
-        <a href="../contacto.html">Contacto</a>
+        <a href="../contacto.php">Contacto</a>
     </nav>
 </header>
 <div class="detalle-container">

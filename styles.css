@@ -967,7 +967,8 @@ footer {
 /* Inputs y botones */
 .form-box input[type="text"],
 .form-box input[type="email"],
-.form-box input[type="password"] {
+.form-box input[type="password"],
+.form-box input[type="tel"] {
     width: 100%;
     padding: 12px 15px;
     margin-bottom: 15px;
@@ -978,7 +979,8 @@ footer {
 
 .form-box input[type="text"]:focus,
 .form-box input[type="email"]:focus,
-.form-box input[type="password"]:focus {
+.form-box input[type="password"]:focus 
+.form-box input[type="tel"]:focus {
     border-color: #0d6efd;
     outline: none;
 }
